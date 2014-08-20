@@ -36,7 +36,7 @@ Confirmed to work with at least with Disqus Comment System versions 2.74-2.77.
 2. Go to the *Plugins - Add New* page in WP
 3. Click *Upload* and select the downloaded ZIP file
 
-= Installation using git =
+= Installation using Git =
 As a final option, especially if you maintain multiple sites, you may wish to use Git to clone the plugin:
 
 1. Open an SSH connection to your WordPress server
