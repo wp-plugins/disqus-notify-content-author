@@ -10,7 +10,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 If using Disqus, the authors of posts/pages do not get notified of comments if they're not Disqus moderators. This plugin fixes that.
 
-== Description == 
+== Description ==
 
 = Purpose =
 This plugin notifies post/page author by email of comments posted through the
@@ -21,7 +21,7 @@ In other words, this plugin implements the same notification functionality that 
 *[INSTALL THE PLUGIN](http://wordpress.org/plugins/disqus-notify-content-author/installation/)*
 
 = Works with =
-Confirmed to work with (and be needed with) at least with Disqus Comment System versions 2.74-2.84.
+Confirmed to work with (and be needed with) at least Disqus Comment System versions 2.74-2.84.
 
 == Installation ==
 
